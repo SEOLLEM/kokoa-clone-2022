@@ -1,0 +1,18 @@
+.screen-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 25px;
+  padding: var(--horizontal-space);
+  position: fixed;
+  width: 100%;
+  box-sizing: border-box;
+  background-color: white;
+}
+.screen-head__title {
+  font-size: 30px;
+  font-weight: 600;
+}
+.screen-head__icon span {
+  margin-left: 25px;
+}

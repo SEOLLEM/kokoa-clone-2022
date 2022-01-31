@@ -1,0 +1,8 @@
+.chat-screen {
+  margin-top: 110px;
+}
+.chat-icon {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
